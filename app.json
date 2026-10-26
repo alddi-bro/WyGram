@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "WyGram",
+    "slug": "wygram",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "platforms": ["android", "web"],
+    "android": {
+      "package": "com.wygram.app"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
